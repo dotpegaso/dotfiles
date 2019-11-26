@@ -1,35 +1,34 @@
 {
-   "name": "dotfiles",
-   "version": "0.0.1",
-   "description": "atomantic dotfiles for macos",
-   "main": "index.js",
-   "scripts": {
-     "test": "echo \"Error: no test specified\" && exit 1",
-     "snyk-protect": "snyk protect",
-     "prepare": "npm run snyk-protect"
-   },
-   "private": true,
-   "repository": {
-     "type": "git",
-     "url": "git+https://github.com/dotpegaso/dotfiles.git"
-   },
-   "keywords": [
-     "dotfiles",
-     "osx",
-     "macos",
-     "automation",
-     "setup",
-     "developer"
-   ],
-   "author": "dotpegaso - Modified from Adam Eivy <atomantic@gmail.com>",
-   "license": "ISC",
-   "homepage": "https://github.com/dotpegaso/dotfiles#readme",
-   "dependencies": {
-     "async.series": "0.5.2",
-     "inquirer": "6.2.2",
-     "node-emoji": "1.10.0",
-     "snyk": "^1.192.3"
-   },
-   "snyk": true
- }
- 
+  "name": "dotfiles",
+  "version": "0.0.1",
+  "description": "atomantic dotfiles for macos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotpegaso/dotfiles.git"
+  },
+  "keywords": [
+    "dotfiles",
+    "osx",
+    "macos",
+    "automation",
+    "setup",
+    "developer"
+  ],
+  "author": "dotpegaso - Modified from Adam Eivy <atomantic@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/dotpegaso/dotfiles#readme",
+  "dependencies": {
+    "async.series": "0.5.2",
+    "inquirer": "6.2.2",
+    "node-emoji": "1.10.0",
+    "snyk": "^1.192.3"
+  },
+  "snyk": true
+}
