@@ -3,3 +3,4 @@
 .LSOverride
 ._*
 id_rsa
+node_modules/
