@@ -17,7 +17,6 @@ Here is the current list:
 - Remove the sleep image file to save disk space
 
 ## General System Changes
-- always boot in verbose mode (not MacOS GUI mode)
 - Disable the sound effects on boot
 - Menu bar: disable transparency
 - Menu bar: hide the Time Machine, Volume and User icons
