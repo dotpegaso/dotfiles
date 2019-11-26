@@ -5,7 +5,7 @@ I will update your MacOS machine with Better™ system defaults, preferences, so
 You don't need to install or configure anything upfront! This works with a brand-new machine from the factory as well as an existing machine that you've been working with for years.
 
 # How to run
-`git clone git@github.com:dotpegaso/dotfiles.git && cd dotfiles && sh install`
+`git clone git@github.com:dotpegaso/dotfiles.git && cd dotfiles && bash install.sh`
 
 # Settings
 This project changes a number of settings and configures software on MacOS.
